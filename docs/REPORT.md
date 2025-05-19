@@ -3,4 +3,4 @@
 Составить программу для нахождения общего количества заданной буквы в трёх
 заданных предложениях.
 ## Скриншоты
-![image](https://github.com/fpmi-tp2025/tpmp-gr9a-lab2-task3-karvatskiy-ta/blob/main/screenshots/Screenshot%202025-05-12%20at%2010.47.44.png)
+![image](https://github.com/karvatskiy-ta/lab2-task1-gr9a-karvatskiy/blob/main/screenshots/Screenshot%202025-05-12%20at%2010.47.44.png)
