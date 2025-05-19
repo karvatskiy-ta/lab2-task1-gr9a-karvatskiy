@@ -3,7 +3,7 @@
 #include <string.h>
 #include <locale.h>
 #include <wchar.h>
-#include "task1.h"
+#include "../include/task1.h"
 
 /*
  * Основная функция программы.
